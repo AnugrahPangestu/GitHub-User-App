@@ -30,3 +30,11 @@ Aplikasi Github User
 4.Halaman Setting Tema
 --
 - Mengubah Tampilan Tema Aplikasi Ke Dark Mode atau Light Mode
+
+# Screenshots
+<div>
+  <img src="https://github.com/AnugrahPangestu/GitHub-User-App/blob/master/app/src/main/res/drawable/Screenshot/Github_Home.jpg" alt="Gambar 1" width="220" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/GitHub-User-App/blob/master/app/src/main/res/drawable/Screenshot/Github_Detail.jpg" alt="Gambar 2" width="220" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/GitHub-User-App/blob/master/app/src/main/res/drawable/Screenshot/Github_Fav.jpg" alt="Gambar 3" width="230" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/GitHub-User-App/blob/master/app/src/main/res/drawable/Screenshot/Github_Search.jpg" alt="Gambar 4" width="220" height="450" style="display: inline-block;">
+  <img src="https://github.com/AnugrahPangestu/GitHub-User-App/blob/master/app/src/main/res/drawable/Screenshot/Github_Settings.jpg" alt="Gambar 5" width="220" height="450" style="display: inline-block;">
