@@ -50,6 +50,8 @@ class FavoriteFragment : Fragment() {
             setListUsersData(items)
         }
 
+
+
     }
 
     private fun setListUsersData(listItemUsers: List<ItemsItem>) {

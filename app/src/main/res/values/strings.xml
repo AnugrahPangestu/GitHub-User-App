@@ -14,5 +14,6 @@
     <string name="fab_description">FAB</string>
     <string name="dark_mode">Dark Mode</string>
     <string name="detail_profile_description">Detail Profile</string>
+    <string name="your_favorite">Your Favorite</string>
 
 </resources>
